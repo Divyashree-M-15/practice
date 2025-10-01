@@ -1,4 +1,4 @@
 # practice
 This is my first Git Repository
 <br>
-Author - Divyashree M
+Author - Divya
